@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ArdillaV21" target="blank">
 Federico Valle</a></h1>
-<h3 align="center">A student about web development technologies, Argentina &#127470;&#127475</h3>
+<h3 align="center">A student about web development technologies, Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 
